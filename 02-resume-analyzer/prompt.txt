@@ -1,0 +1,8 @@
+Analyze the student's profile and provide:
+
+1. Best Career Path
+2. Why this Career Path is suitable
+3. Strengths
+4. Weaknesses
+5. Skills to Learn Next
+6. Overall Rating (out of 10)
