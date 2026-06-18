@@ -1,0 +1,7 @@
+Summarize the given story in concise bullet points.
+
+Requirements:
+- Capture the main events.
+- Keep the summary clear and easy to understand.
+- Use bullet points.
+- Do not add information that is not present in the story.
